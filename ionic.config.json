@@ -1,0 +1,7 @@
+{
+  "name": "cordova-plugin-elgin-smartpos-IonicSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
